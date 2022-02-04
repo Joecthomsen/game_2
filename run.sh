@@ -1,0 +1,1 @@
+cd build ; ./PICK_UP_BALLS

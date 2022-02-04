@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/PICK_UP_BALLS.dir/src/main.cpp.o CMakeFiles/PICK_UP_BALLS.dir/src/Game.cpp.o CMakeFiles/PICK_UP_BALLS.dir/src/Player.cpp.o  -o PICK_UP_BALLS   -L/home/johannes/games/pick_up_balls/external/sfml/lib  -Wl,-rpath,/home/johannes/games/pick_up_balls/external/sfml/lib -lsfml-audio -lsfml-graphics -lsfml-system -lsfml-window 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/johannes/games/pick_up_balls/src/Player.cpp
+Player.h
+/home/johannes/games/pick_up_balls/src/Player.h
+
+/home/johannes/games/pick_up_balls/src/Player.h
+SFML/Graphics.hpp
+-
+SFML/System.hpp
+-
+SFML/Window.hpp
+-
+iostream
+-
+
